@@ -52,10 +52,6 @@
 - Prefer `yarn workspace <name> <cmd>`; avoid modifying unrelated packages.
 - Keep code style consistent; run `yarn lint` and add targeted tests.
 
-# AGENTS.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 Helicone is an open-source LLM observability platform that provides monitoring, analytics, and management tools for Large Language Model applications. The project is structured as a monorepo with multiple services.
